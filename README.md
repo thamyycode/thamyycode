@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
 
-<!-- ⚡ SUBTÍTULO TERMINAL -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
-</div>
-
 ---
 
 <div align="center">
@@ -82,6 +77,6 @@
 ---
 
 <!-- 🌌 RODAPÉ NEON -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=80&section=footer&animation=waving"/>
+</p>
