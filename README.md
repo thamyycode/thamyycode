@@ -1,11 +1,6 @@
-<!-- CABEÇALHO TECH & FLUIDO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=1,FF007F,8833FF&height=280&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&subText=Software%20Engineering%20Student&subTextSize=20" width="100%" />
+  <img src="image_0.png" width="100%" />
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="70%" />
-</div>
 
 <br>
 
@@ -55,7 +50,8 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 ## 🎀 <font color="#B030B0">Vamos nos conectar?</font>
 <div align="left">
   <a href="mailto:oliveirathamy50@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D03391?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/thamyycode" target="_blank"><img src="https://img.shields.io/badge/GitHub_thamyycode-8E24AA?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -64,7 +60,9 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 
 ---
 
-<!-- RODAPÉ TECH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=8E24AA&height=120&section=footer&text=Made%20with%20💜%20by%20Thamyres&fontSize=25&fontColor=ffffff" width="100%" />
+  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="50%" />
+</p>
+<p align="center">
+  <font color="#B030B0">Made with 💜 by Thamyres Oliveira</font>
 </p>
