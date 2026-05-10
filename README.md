@@ -41,7 +41,7 @@
 
 
 
-### CONECTAR_TERMINAL
+#### CONECTAR_TERMINAL
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
@@ -54,7 +54,7 @@
 
 ---
 
-### TECNOLOGIAS
+#### TECNOLOGIAS
 
 
 <div align="left">
@@ -63,7 +63,7 @@
 
 ---
 
-### [MÉTRICAS_DE_APRENDIZADO]
+#### [MÉTRICAS_DE_APRENDIZADO]
 
 | MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
