@@ -16,7 +16,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybal9naWZfYnlfaWQmY3Q9Zw/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
-### 🌌 [INFORMAÇÕES_DO_SISTEMA]
+### 🌌 [𝐼𝒩𝐹𝒪𝑅𝑀𝒜ÇÕ𝐸𝒮_𝒟𝒪_𝒮𝐼𝒮𝒯𝐸𝑀𝒜]
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
