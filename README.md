@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybal9naWZfYnlfaWQmY3Q9Zw/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
@@ -44,9 +44,6 @@
 ---
 
 ### 🌐 [CONECTAR_TERMINAL]
-
-* **LinkedIn:** [Acessar Perfil Profissional](https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/)
-* **E-mail:** `oliveirathamy50@gmail.com`
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
