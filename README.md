@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
 
+<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
+</p>
 ---
 
 <div align="center">
