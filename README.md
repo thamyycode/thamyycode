@@ -5,8 +5,9 @@
 
 <!-- ⚡ SUBTÍTULO TERMINAL DINÂMICO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bf00ff&center=true&vCenter=true&width=500&lines=>>+ROOT+ACCESS+GRANTED...;++Bypassing+firewall...;++Configuring+network+protocols...;++Running+Python+scripts...;++Deploying+TH+Games+Hub...;++Troubleshooting+system+errors...;++Connection+Secure:+Status+Purple" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
 </p>
+
 <!-- 🌌 LINHA DE DIVISÃO NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
@@ -16,7 +17,7 @@
 
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
-* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
+* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
 * **HABILIDADES:** Python, Java, SQL e Suporte Técnico
 * **STATUS:** Entre tickets de suporte e automação de scripts.
@@ -67,9 +68,9 @@
 
 <br>
 
-<!-- ⚡ TERMINAL HACKER ALTERNANDO -->
+<!-- ⚡ TERMINAL HACKER CORRIGIDO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bf00ff&center=true&vCenter=true&width=500&lines=>>+ROOT+ACCESS+GRANTED...;++Bypassing+firewall...;++Configuring+network+protocols...;++Running+Python+scripts...;++Deploying+TH+Games+Hub...;++Troubleshooting+system+errors...;++Connection+Secure:+Status+Purple" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+ROOT+ACCESS+GRANTED...;%3E%3E+Bypassing+firewall...;%3E%3E+Configuring+protocols...;%3E%3E+Running+Python+scripts...;%3E%3E+Troubleshooting+system..." />
 </p>
 
 ---
