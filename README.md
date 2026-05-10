@@ -22,7 +22,7 @@
 
 * **CURSO:** Analista e Desenvolvedor de Sistemas (ADS)
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
-* **SKILLS:** Java, Python, SQL e Suporte Técnico
+* **SKILLS:** Python, Java, SQL e Suporte Técnico
 * **STATUS:** Decifrando protocolos e compilando ideias.
 
 <br>
@@ -48,7 +48,7 @@
 ### 🌐 [NEON_NETWORK]
 
 <div align="left">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
   </a>
   <a href="mailto:Thamy3892h@gmail.com">
@@ -61,24 +61,24 @@
 ### 🛠 [TECHNOLOGIES_ARRAY]
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,mysql,js,html,css,git,linux,windows,networks" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,js,html,css,git,linux,windows,networks" />
 </div>
 
 ---
 
-### 📊 [LEARNING_PROGRESS]
+### 📊 [SYSTEM_METRICS]
 
 | MODULE | KNOWLEDGE_LEVEL | STATUS |
 | :--- | :--- | :--- |
-| **IT_SUPPORT_ENTERPRISE** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ACTIVE` |
-| **NETWORKS_COMPUTING** | `[▓▓▓▓▓▓░░░░] 60%` | `LOADING` |
-| **JAVA_DEVELOPMENT** | `[▓▓▓▓▓▓▓░░░] 70%` | `COMPILING` |
-| **PYTHON_SCRIPTS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `RUNNING` |
+| **PYTHON_SCRIPTS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `STABLE` |
+| **NETWORKS_COMPUTING** | `[▓▓▓▓▓░░░░░] 50%` | `LOADING` |
+| **JAVA_DEVELOPMENT** | `[▓▓▓░░░░░░░] 30%` | `UPGRADING` |
+| **IT_SUPPORT_ENTERPRISE** | `[▓▓░░░░░░░░] 20%` | `INITIALIZING` |
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Fixing+network_protocols...;>>+Updating+support_modules;>>+Coding+in+Java+and+Python;>>+Aura_Status:+Neon+Purple" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Python+scripts+at+80%25...;>>+Syncing+Network+protocols;>>+Learning+Java+Modules;>>+Aura_Status:+Neon+Purple" />
 </div>
 
 ---
