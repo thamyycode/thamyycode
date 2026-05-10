@@ -39,7 +39,7 @@ Dominando o equilíbrio entre o back-end potente e o front-end visual:
 ## 🎀 Vamos nos conectar?
 <p align="left">
 <a href="mailto:oliveirathamy50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-GitHub-6200EA?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
