@@ -25,7 +25,7 @@
 
 <br>
 
----
+
 
 ### 🏆 [PROJETO_EM_DESTAQUE]
 
@@ -39,7 +39,7 @@
 
 > **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
----
+
 
 ### 🌐 [CONECTAR_TERMINAL]
 
