@@ -39,7 +39,7 @@
 #### CONECTAR_TERMINAL
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
+  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
   </a>
   <a href="mailto:oliveirathamy50@gmail.com">
