@@ -36,10 +36,15 @@ Dominando o equilíbrio entre o back-end potente e o front-end visual:
 
 ---
 
-## 🎀 Conecte-se comigo
+## 🎀 Vamos nos conectar?
 <p align="left">
-<a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:oliveirathamy50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-GitHub-6200EA?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  **📧 Contato direto:** oliveirathamy50@gmail.com
 </p>
 
 <p align="center">
