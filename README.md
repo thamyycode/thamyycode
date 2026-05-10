@@ -1,11 +1,11 @@
-<!-- ⚡ HEADER NEON CYBERPUNK -->
+<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
 
-<!-- ⚡ SUBTITLE TERMINAL -->
+<!-- ⚡ SUBTÍTULO TERMINAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INIT+SESSION...;ANALISE+E+DESENV.+DE+SISTEMAS;BACK-END+DEVELOPER;IT+SUPPORT+%26+NETWORKING..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
 </div>
 
 ---
@@ -18,72 +18,72 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
-### 🌌 [KERNEL_INFO]
+### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
-* **CURSO:** Analista e Desenvolvedor de Sistemas (ADS)
+* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
-* **SKILLS:** Python, Java, SQL e Suporte Técnico
+* **HABILIDADES:** Python, Java, SQL e Suporte Técnico
 * **STATUS:** Decifrando protocolos e compilando ideias.
 
 <br>
 
 ---
 
-### 📂 [DIRECTORY_PROJECTS]
+### 📂 [DIRETÓRIO_DE_PROJETOS]
 
-#### 💠 PYTHON_AUTOMATION_BOT
+#### 💠 BOT_DE_AUTOMAÇÃO_PYTHON
 *Automação de Processos e Dados*
-- **CORE:** Script inteligente para otimização de tarefas e manipulação de arquivos.
-- **STACK:** `Python` / `Pandas` / `Automation Libs`
-- **STATUS:** `OPERATIONAL`
+- **PRINCIPAL:** Script inteligente para otimização de tarefas e manipulação de arquivos.
+- **TECNOLOGIAS:** `Python` / `Pandas` / `Bibliotecas de Automação`
+- **STATUS:** `OPERACIONAL`
 
-#### 💠 DB_SCHOOL_MANAGER
+#### 💠 GESTÃO_ESCOLAR_DB
 *Gerenciamento de Fluxo Acadêmico*
-- **CORE:** Modelagem relacional e automação via Triggers/Procedures.
-- **STACK:** `SQL Server` / `MySQL`
-- **STATUS:** `STABLE`
+- **PRINCIPAL:** Modelagem relacional e automação via Triggers/Procedures.
+- **TECNOLOGIAS:** `SQL Server` / `MySQL`
+- **STATUS:** `ESTÁVEL`
 
 ---
 
-### 🌐 [NEON_NETWORK]
+### 🌐 [CONECTAR_TERMINAL]
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
   </a>
   <a href="mailto:Thamy3892h@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff00ff">
+    <img src="https://img.shields.io/badge/E-mail-000?style=for-the-badge&logo=gmail&logoColor=ff00ff">
   </a>
 </div>
 
 ---
 
-### 🛠 [TECHNOLOGIES_ARRAY]
+### 🛠 [TECNOLOGIAS]
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,js,html,css,git,linux,windows,networks" />
+  <img src="https://skillicons.dev/icons?i=py,java,css,html" />
 </div>
 
 ---
 
-### 📊 [SYSTEM_METRICS]
+### 📊 [MÉTRICAS_DE_APRENDIZADO]
 
-| MODULE | KNOWLEDGE_LEVEL | STATUS |
+| MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
-| **PYTHON_SCRIPTS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `STABLE` |
-| **NETWORKS_COMPUTING** | `[▓▓▓▓▓░░░░░] 50%` | `LOADING` |
-| **JAVA_DEVELOPMENT** | `[▓▓▓░░░░░░░] 30%` | `UPGRADING` |
-| **IT_SUPPORT_ENTERPRISE** | `[▓▓░░░░░░░░] 20%` | `INITIALIZING` |
+| **SCRIPTS_PYTHON** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ESTÁVEL` |
+| **REDES_E_COMPUTADORES** | `[▓▓▓▓▓░░░░░] 50%` | `CARREGANDO` |
+| **DESENVOLVIMENTO_JAVA** | `[▓▓▓░░░░░░░] 30%` | `ATUALIZANDO` |
+| **SUPORTE_EMPRESARIAL** | `[▓▓░░░░░░░░] 20%` | `INICIALIZANDO` |
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Python+scripts+at+80%25...;>>+Syncing+Network+protocols;>>+Learning+Java+Modules;>>+Aura_Status:+Neon+Purple" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Scripts+Python+em+80%25...;>>+Sincronizando+protocolos+de+Rede;>>+Aprendendo+Módulos+Java;>>+Status+da+Aura:+Roxo+Neon" />
 </div>
 
 ---
 
-<!-- 🌌 FOOTER NEON -->
+<!-- 🌌 RODAPÉ NEON -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
 </div>
