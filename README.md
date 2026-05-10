@@ -3,18 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=35&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Press+Start+2P"/>
 </p>
 
-<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
+<!-- ⚡ TERMINAL DINÂMICO (SUPORTE TECH) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=%3E%3E+TERMINAL+DE+SUPORTE+AVAN%C3%87ADO...;%3E%3E+INICIANDO+DIAGN%C3%93STICO+DE+SISTEMA...;%3E%3E+CONECTANDO+AO+SERVIDOR+CENTRAL+TH...;%3E%3E+STATUS:+RESOLVENDO+CHAMADOS+CR%C3%8DTICOS..." />
 </p>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
 </div>
 
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybal9naWZfYnlfaWQmY3Q9Zw/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+<!-- GIF DO PINTEREST CONFIGURADO -->
+<img align="right" src="https://i.pinimg.com/originals/e4/26/d2/e426d2ea580bc96f70014d5930229346.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
 #### INFORMAÇÕES_DO_SISTEMA
 
@@ -24,8 +23,6 @@
 * **STATUS:** Entre tickets de suporte, automação de scripts e troubleshooting de rede.
 
 <br>
-
-
 
 #### PROJETO_EM_DESTAQUE
 
@@ -38,8 +35,6 @@
 - **STATUS:** `VERSÃO_FINAL_ESTÁVEL`
 
 > **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
-
-
 
 #### CONECTAR_TERMINAL
 
@@ -55,7 +50,6 @@
 ---
 
 #### TECNOLOGIAS
-
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,java,css,html" />
@@ -74,9 +68,9 @@
 
 <br>
 
-<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
+<!-- ⚡ TERMINAL DINÂMICO RODAPÉ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=%3E%3E+ENCERRANDO+SESS%C3%83O+DE+SUPORTE...;%3E%3E+LOGS+SALVOS+COM+SUCESSO.;%3E%3E+AGUARDANDO+PR%C3%93XIMO+CHAMADO..." />
 </p>
 
 ---
