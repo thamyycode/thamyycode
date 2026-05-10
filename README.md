@@ -70,9 +70,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Codando+em+Python+e+Java;>>+Status:+Analista+em+Construção" />
-</div>
+<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
+</p>
 
 ---
 
