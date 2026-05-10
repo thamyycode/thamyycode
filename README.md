@@ -20,7 +20,7 @@
 
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
-* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
+* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
 * **HABILIDADES:** Python, Java, SQL e Suporte Técnico
 * **STATUS:** Entre tickets de suporte, automação de scripts e troubleshooting de rede.
@@ -29,19 +29,17 @@
 
 ---
 
-### 📂 [DIRETÓRIO_DE_PROJETOS]
+### 🏆 [PROJETO_EM_DESTAQUE]
 
-#### 💠 BOT_DE_AUTOMAÇÃO_PYTHON
-*Automação de Processos e Dados*
-- **PRINCIPAL:** Script inteligente para otimização de tarefas e manipulação de arquivos.
-- **TECNOLOGIAS:** `Python` / `Pandas` / `Bibliotecas de Automação`
-- **STATUS:** `OPERACIONAL`
+#### 💠 TH Games Hub — Gerenciador de Torneios
+*Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
 
-#### 💠 GESTÃO_ESCOLAR_DB
-*Gerenciamento de Fluxo Acadêmico*
-- **PRINCIPAL:** Modelagem relacional e automação via Triggers/Procedures.
-- **TECNOLOGIAS:** `SQL Server` / `MySQL`
-- **STATUS:** `ESTÁVEL`
+- **O QUE FAZ:** Centraliza o controle de times, jogadores e inscrições, gerando relatórios automáticos de torneios competitivos.
+- **DIFERENCIAL:** Interface de terminal organizada com tabelas e persistência de dados em arquivos estruturados.
+- **TECNOLOGIAS:** `Python 3.13` / `Biblioteca Tabulate` / `Manipulação de Arquivos .txt`
+- **STATUS:** `VERSÃO_FINAL_ESTÁVEL`
+
+> **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
 ---
 
