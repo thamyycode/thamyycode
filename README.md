@@ -1,17 +1,21 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" /> TeamSync: Organização de Times
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=FF007F&height=200&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=8833FF&height=250&section=header&text=Python%20Developer&fontSize=80&animation=fadeIn&fontColor=FF007F" />
+  <img src="http://googleusercontent.com/image_generation_content/0" width="100%" />
 </p>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" /> TeamSync: Organização de Times
 
 ---
 
 ## 🦄 O que eu desenvolvi
 Neste projeto, criei uma arquitetura robusta em **Python** para gerenciar a estrutura interna de organizações. O foco foi construir uma lógica eficiente para:
 
-*   **Gestão Hierárquica:** Separação clara entre níveis de acesso (Administradores, Gestores e Colaboradores).
-*   **Fluxo de Dados:** Sistema que organiza como as informações e tarefas são distribuídas entre os times.
-*   **Automação de Processos:** Scripts que facilitam a entrada de novos membros e a atualização de cargos em tempo real.
+* **Gestão Hierárquica:** Separação clara entre níveis de acesso (Administradores, Gestores e Colaboradores).
+* **Fluxo de Dados:** Sistema que organiza como as informações e tarefas são distribuídas entre os times.
+* **Automação de Processos:** Scripts que facilitam a entrada de novos membros e a atualização de cargos em tempo real.
 
 ---
 
@@ -30,9 +34,9 @@ Dominando o equilíbrio entre o back-end potente e o front-end visual:
 ## 🔮 Diferenciais do Projeto
 > "A organização é o que transforma um grupo de pessoas em um time de alta performance."
 
-*   ✨ **Código Limpo:** Desenvolvido seguindo as melhores práticas de Python.
-*   ✨ **Escalabilidade:** Estrutura pronta para suportar o crescimento do número de times.
-*   ✨ **Lógica Avançada:** Tratamento de dados para evitar duplicidade ou erros de hierarquia.
+* ✨ **Código Limpo:** Desenvolvido seguindo as melhores práticas de Python.
+* ✨ **Escalabilidade:** Estrutura pronta para suportar o crescimento do número de times.
+* ✨ **Lógica Avançada:** Tratamento de dados para evitar duplicidade ou erros de hierarquia.
 
 ---
 
@@ -47,6 +51,8 @@ Dominando o equilíbrio entre o back-end potente e o front-end visual:
   **📧 Contato direto:** oliveirathamy50@gmail.com
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=8E24AA&height=150&section=footer&text=Made%20with%20💜%20by%20Thamyres&fontSize=30&fontColor=ffffff" />
 </p>
