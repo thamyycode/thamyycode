@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1280x250/2d004d/ffffff?text=." width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="70%" />
+</p>
 <div align="center">
-  <br>
   <code><b style="letter-spacing: 5px;">
     <font color="#8833ff">THAMYRES</font><font color="#ff007f">_OLIVEIRA</font>
   </b></code>
   <br>
   <font color="#8833ff"><b>> ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b></font>
-  <br>
-  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="400px">
 </div>
 
 <br>
@@ -67,8 +70,9 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 
 ---
 
-<div align="center">
-  <font color="#8833ff">________________________________________________</font>
-  <br>
+<p align="center">
+  <img src="https://via.placeholder.com/1280x150/bc13fe/ffffff?text=." width="100%" />
+</p>
+<p align="center">
   <font color="#B030B0">Made with 💜 by Thamyres Oliveira</font>
-</div>
+</p>
