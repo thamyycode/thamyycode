@@ -17,37 +17,31 @@
 
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
-* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
+* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
 * **HABILIDADES:** Python, Java, SQL e Suporte Técnico
-* **STATUS:** Entre tickets de suporte, automação de scripts e troubleshooting de rede.
+* **STATUS:** Entre tickets de suporte e troubleshooting de rede.
 
 <br>
-
-<!-- 📊 ESTATÍSTICAS -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyycode&show_icons=true&theme=nightowl&hide_border=true&title_color=bf00ff&icon_color=ff00ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyycode&layout=compact&theme=nightowl&hide_border=true&title_color=bf00ff&text_color=ffffff" />
-</p>
-
-<br>
-
-### 🏆 [PROJETO_EM_DESTAQUE]
-
-#### 💠 TH Games Hub — Gerenciador de Torneios
-*Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
-
-- **O QUE FAZ:** Controle de times, jogadores e inscrições com relatórios automáticos.
-- **TECNOLOGIAS:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
-- **STATUS:** `VERSÃO_FINAL_ESTÁVEL`
 
 ---
 
 ### 🛠 [TECNOLOGIAS_DETECTADAS]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,css,html,linux,mysql,git" />
+  <!-- Ícones que carregam rápido e sem erro -->
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,linux,git,bash,windows,html,css,github,vscode&theme=dark" />
 </p>
+
+---
+
+### 🏆 [PROJETO_EM_DESTAQUE]
+
+#### 💠 TH Games Hub — Gerenciador de Torneios
+*Sistema de organização para E-sports*
+
+- **TECNOLOGIAS:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
+- **STATUS:** `ESTÁVEL`
 
 ---
 
@@ -71,17 +65,16 @@
 | **SCRIPTS_PYTHON** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ESTÁVEL` |
 | **REDES_E_COMPUTADORES** | `[▓▓▓▓▓░░░░░] 50%` | `CARREGANDO` |
 | **DESENVOLVIMENTO_JAVA** | `[▓▓▓░░░░░░░] 30%` | `ATUALIZANDO` |
-| **SUPORTE_EMPRESARIAL** | `[▓▓░░░░░░░░] 20%` | `INICIALIZANDO` |
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Codando+em+Python+e+Java;>>+Status:+Analista+em+Construção" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Status:+Analista+em+Construção" />
 </p>
 
 ---
 
 <!-- 🌌 RODAPÉ NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=80&section=footer&animation=waving"/>
 </p>
