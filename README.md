@@ -12,8 +12,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
 </div>
 
-<!-- GIF DO PINTEREST CONFIGURADO -->
-<img align="right" src="https://i.pinimg.com/originals/e4/26/d2/e426d2ea580bc96f70014d5930229346.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+<!-- GIF DO GOOGLE SHARE ATUALIZADO -->
+<img align="right" src="https://lh3.googleusercontent.com/pw/AP1GczPrO9mAnv_96T_4pZ3X6Cst427m9x_lQ0_C8XG_M8-hU3v5uP98O-G9TjCgPzZJ-eO8nZf-R8V5u-D9l-z3U=w400-h400-no" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
 #### INFORMAÇÕES_DO_SISTEMA
 
