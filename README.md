@@ -1,19 +1,17 @@
-<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
-<div align="center">
+<!-- ⚡ CABEÇALHO NEON -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
-</div>
+</p>
 
 <!-- ⚡ SUBTÍTULO TERMINAL -->
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
-</div>
+</p>
 
 <!-- 🌌 DIVISOR NEON -->
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
-</div>
-
-<br>
+</p>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px; border: 1px solid #bf00ff;"/>
 
@@ -26,50 +24,43 @@
 
 <br>
 
-<!-- 📊 ESTATÍSTICAS (IMPORTANTE: Mude 'SEU_USUARIO' para o seu login do GitHub) -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nightowl&hide_border=true&title_color=bf00ff&icon_color=ff00ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=nightowl&hide_border=true&title_color=bf00ff&text_color=ffffff" />
-</div>
+<!-- 📊 ESTATÍSTICAS -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyycode&show_icons=true&theme=nightowl&hide_border=true&title_color=bf00ff&icon_color=ff00ff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyycode&layout=compact&theme=nightowl&hide_border=true&title_color=bf00ff&text_color=ffffff" />
+</p>
 
 <br>
-
-<!-- 🌌 DIVISOR NEON -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:1a0033,50:6600cc,0:ff00ff&height=4"/>
-</div>
 
 ### 🏆 [PROJETO_EM_DESTAQUE]
 
 #### 💠 TH Games Hub — Gerenciador de Torneios
 *Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
 
-- **O QUE FAZ:** Centraliza o controle de times, jogadores e inscrições com relatórios automáticos.
-- **TECNOLOGIAS:** `Python 3.13` / `Biblioteca Tabulate` / `Manipulação de Arquivos .txt`
+- **O QUE FAZ:** Controle de times, jogadores e inscrições com relatórios automáticos.
+- **TECNOLOGIAS:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
 - **STATUS:** `VERSÃO_FINAL_ESTÁVEL`
-
-> **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
 ---
 
 ### 🛠 [TECNOLOGIAS_DETECTADAS]
 
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,css,html,linux,mysql,git" />
-</div>
+</p>
 
 ---
 
 ### 🌐 [CONECTAR_TERMINAL]
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
   </a>
   <a href="mailto:oliveirathamy50@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=ff00ff">
   </a>
-</div>
+</p>
 
 ---
 
@@ -84,20 +75,13 @@
 
 <br>
 
-<!-- 🐍 SNAKE GAME (IMPORTANTE: Mude 'SEU_USUARIO' para o seu login do GitHub) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Codando+em+Python+e+Java;>>+Status:+Analista+em+Construção" />
-</div>
+</p>
 
 ---
 
 <!-- 🌌 RODAPÉ NEON -->
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
-</div>  
+</p>
