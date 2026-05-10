@@ -1,79 +1,86 @@
-<!-- CABEÇALHO PERSONALIZADO -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td style="background-image: linear-gradient(to right, #FF007F, #8833FF); padding: 40px; border-radius: 15px; text-align: center;">
-        <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0;">✨ Welcome to my Space ✨</h1>
-        <p style="color: #fce4ec; font-size: 1.2em;">Estudante de Engenharia de Software | Thamyres Oliveira</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Diogo%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INIT+SESSION...;ANALISE+E+DESENV.+DE+SISTEMAS;BACK-END+DEVELOPER;DECRYPTING+KNOWLEDGE..." />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+
+### 🌌 [KERNEL_INFO]
+
+* **CURSO:** Analista e Desenvolvedor de Sistemas (ADS)
+* **FOCO:** Arquitetura Back-end & Infraestrutura
+* **SKILLS:** Java, SQL, Python e Lógica Computacional
+* **OBJETIVO:** Transformar café em sistemas escaláveis.
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> <font color="#D03391">TeamSync: Gestão de E-sports</font>
+---
+
+### 📂 [DIRECTORY_PROJECTS]
+
+#### 💠 DB_SCHOOL_MANAGER
+*Gerenciamento de Fluxo Acadêmico*
+- **CORE:** Automação de processos via Triggers e Procedures complexas.
+- **STACK:** `SQL Server` / `Relational Logic`
+- **STATUS:** `OPTIMIZED`
+
+#### 💠 AUTOMATION_EXT_PROJECT
+*Interface & Fluxo de Trabalho*
+- **CORE:** Extensão de navegador para ganho de produtividade em tarefas repetitivas.
+- **STACK:** `JavaScript` / `Web APIs`
+- **STATUS:** `IN_DEVELOPMENT`
 
 ---
 
-## 🦄 <font color="#B030B0">Resumo do Projeto</font>
+### 🌐 [NEON_NETWORK]
 
-<font color="#D03391">
-Este projeto é uma aplicação funcional desenvolvida em <b>Python</b> para gerenciar times, jogadores, torneios e inscrições. Pensado especialmente para a comunidade de e-sports, como fãs de <b>Valorant</b> e <b>League of Legends</b>, o sistema oferece uma forma prática de organizar campeonatos multiplayer. Ele utiliza arquivos <code>.txt</code> como base de dados simples e a biblioteca <code>tabulate</code> para gerar relatórios detalhados e formatados diretamente no terminal. 
-</font>
-
----
-
-## 📂 <font color="#B030B0">Estrutura do Sistema</font>
-
-<font color="#D03391">
-O projeto é organizado de forma modular para facilitar a manutenção:
-</font>
-
-* 📝 <font color="#D03391"><b>times.py:</b> Gerenciamento completo (CRUD) de equipes.</font>
-* 👤 <font color="#D03391"><b>jogadores.py:</b> Controle de players e seus dados.</font>
-* 🏆 <font color="#D03391"><b>torneios.py:</b> Criação e gestão de competições.</font>
-* 🎟️ <font color="#D03391"><b>inscricoes.py:</b> Vínculo de jogadores em torneios ativos.</font>
-* 📊 <font color="#D03391"><b>relatorios.py:</b> Geração de estatísticas e visões gerais.</font>
-
----
-
-## 🎨 <font color="#B030B0">Tecnologias Utilizadas</font>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python_3.13-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tabulate-6200EA?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database_TXT-E91E63?style=for-the-badge&logo=files&logoColor=white" />
+  <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
+  </a>
+  <a href="mailto:Diogo3892h@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff00ff">
+  </a>
 </div>
 
 ---
 
-## 🔮 <font color="#B030B0">Observações & Licença</font>
-> <font color="#D03391">"Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software. Feedbacks são super bem-vindos!"</font>
+### 🛠 [TECHNOLOGIES_ARRAY]
 
-* ✨ <font color="#D03391"><b>Licença MIT:</b> Livre para uso, cópia e modificação (mantenha os créditos!).</font>
-* ✨ <font color="#D03391"><b>Autor:</b> Thamyres Oliveira.</font>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,c,mysql,js,html,css,git" />
+</div>
 
 ---
 
-## 🎀 <font color="#B030B0">Vamos nos conectar?</font>
-<div align="left">
-  <a href="mailto:oliveirathamy50@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+### 📊 [SYSTEM_METRICS]
+
+| COMPONENT | POWER_LEVEL | STATUS |
+| :--- | :--- | :--- |
+| **JAVA_RUNTIME** | `[▓▓▓▓▓▓▓▓░░] 80%` | `OPERATIONAL` |
+| **DATABASE_SQL** | `[▓▓▓▓▓▓▓░░░] 70%` | `SYNCING` |
+| **SYSTEM_ANALYSIS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `LOADED` |
+| **API_DESIGN** | `[▓▓▓▓▓▓░░░░] 60%` | `UPGRADING` |
 
 <br>
 
-<p>📧 <font color="#B030B0"><b>Contato direto:</b></font> <font color="#D03391">oliveirathamy50@gmail.com</font></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Running+unit_tests.sh;>>+Updating+local_repository;>>+Analyzing+ADS_curriculum...;>>+Aura_Status:+Neon+Purple" />
+</div>
 
 ---
 
-<!-- RODAPÉ PERSONALIZADO -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td style="background-image: linear-gradient(to right, #8833FF, #FF007F); padding: 20px; border-radius: 50px; text-align: center;">
-        <span style="color: white; font-weight: bold;">Made with 💜 by Thamyres Oliveira</span>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
 </div>
