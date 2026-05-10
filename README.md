@@ -1,9 +1,11 @@
+<!-- ⚡ HEADER NEON CYBERPUNK -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
 
+<!-- ⚡ SUBTITLE TERMINAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INIT+SESSION...;ANALISE+E+DESENV.+DE+SISTEMAS;BACK-END+DEVELOPER;DECRYPTING+KNOWLEDGE..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INIT+SESSION...;ANALISE+E+DESENV.+DE+SISTEMAS;BACK-END+DEVELOPER;IT+SUPPORT+%26+NETWORKING..." />
 </div>
 
 ---
@@ -19,9 +21,9 @@
 ### 🌌 [KERNEL_INFO]
 
 * **CURSO:** Analista e Desenvolvedor de Sistemas (ADS)
-* **FOCO:** Arquitetura Back-end & Infraestrutura
-* **SKILLS:** Java, SQL, Python e Lógica Computacional
-* **OBJETIVO:** Transformar café em sistemas escaláveis.
+* **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
+* **SKILLS:** Java, Python, SQL e Suporte Técnico
+* **STATUS:** Decifrando protocolos e compilando ideias.
 
 <br>
 
@@ -29,27 +31,27 @@
 
 ### 📂 [DIRECTORY_PROJECTS]
 
+#### 💠 PYTHON_AUTOMATION_BOT
+*Automação de Processos e Dados*
+- **CORE:** Script inteligente para otimização de tarefas e manipulação de arquivos.
+- **STACK:** `Python` / `Pandas` / `Automation Libs`
+- **STATUS:** `OPERATIONAL`
+
 #### 💠 DB_SCHOOL_MANAGER
 *Gerenciamento de Fluxo Acadêmico*
-- **CORE:** Automação de processos via Triggers e Procedures complexas.
-- **STACK:** `SQL Server` / `Relational Logic`
-- **STATUS:** `OPTIMIZED`
-
-#### 💠 AUTOMATION_EXT_PROJECT
-*Interface & Fluxo de Trabalho*
-- **CORE:** Extensão de navegador para ganho de produtividade em tarefas repetitivas.
-- **STACK:** `JavaScript` / `Web APIs`
-- **STATUS:** `IN_DEVELOPMENT`
+- **CORE:** Modelagem relacional e automação via Triggers/Procedures.
+- **STACK:** `SQL Server` / `MySQL`
+- **STATUS:** `STABLE`
 
 ---
 
 ### 🌐 [NEON_NETWORK]
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bf00ff">
   </a>
-  <a href="mailto:Diogo3892h@gmail.com">
+  <a href="mailto:Thamy3892h@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff00ff">
   </a>
 </div>
@@ -59,28 +61,29 @@
 ### 🛠 [TECHNOLOGIES_ARRAY]
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,c,mysql,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,js,html,css,git,linux,windows,networks" />
 </div>
 
 ---
 
-### 📊 [SYSTEM_METRICS]
+### 📊 [LEARNING_PROGRESS]
 
-| COMPONENT | POWER_LEVEL | STATUS |
+| MODULE | KNOWLEDGE_LEVEL | STATUS |
 | :--- | :--- | :--- |
-| **JAVA_RUNTIME** | `[▓▓▓▓▓▓▓▓░░] 80%` | `OPERATIONAL` |
-| **DATABASE_SQL** | `[▓▓▓▓▓▓▓░░░] 70%` | `SYNCING` |
-| **SYSTEM_ANALYSIS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `LOADED` |
-| **API_DESIGN** | `[▓▓▓▓▓▓░░░░] 60%` | `UPGRADING` |
+| **IT_SUPPORT_ENTERPRISE** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ACTIVE` |
+| **NETWORKS_COMPUTING** | `[▓▓▓▓▓▓░░░░] 60%` | `LOADING` |
+| **JAVA_DEVELOPMENT** | `[▓▓▓▓▓▓▓░░░] 70%` | `COMPILING` |
+| **PYTHON_SCRIPTS** | `[▓▓▓▓▓▓▓▓░░] 80%` | `RUNNING` |
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Running+unit_tests.sh;>>+Updating+local_repository;>>+Analyzing+ADS_curriculum...;>>+Aura_Status:+Neon+Purple" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Fixing+network_protocols...;>>+Updating+support_modules;>>+Coding+in+Java+and+Python;>>+Aura_Status:+Neon+Purple" />
 </div>
 
 ---
 
+<!-- 🌌 FOOTER NEON -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
 </div>
