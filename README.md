@@ -1,14 +1,14 @@
-<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
+<!-- ⚡ CABEÇALHO NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </p>
 
-<!-- ⚡ SUBTÍTULO TERMINAL DINÂMICO -->
+<!-- ⚡ SUBTÍTULO TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;FOCO+EM+ENGENHARIA+DE+SOFTWARE..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
 </p>
 
-<!-- 🌌 LINHA DE DIVISÃO NEON -->
+<!-- 🌌 DIVISOR NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
 </p>
@@ -17,20 +17,20 @@
 
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
-* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
-* **FOCO:** Desenvolvimento Back-end e Lógica de Programação
-* **HABILIDADES:** Python, Java e SQL
-* **STATUS:** Desenvolvendo soluções e otimizando processos.
+* **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
+* **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
+* **HABILIDADES:** Python, Java, SQL e Suporte Técnico
+* **STATUS:** Entre tickets de suporte e troubleshooting de rede.
 
 <br>
 
 ---
 
-### 🛠 [TECNOLOGIAS]
+### 🛠 [TECNOLOGIAS_DETECTADAS]
 
 <p align="left">
-  <!-- Apenas o que você realmente usa -->
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,github,vscode&theme=dark" />
+  <!-- Ícones que carregam rápido e sem erro -->
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,linux,git,bash,windows,html,css,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -38,9 +38,8 @@
 ### 🏆 [PROJETO_EM_DESTAQUE]
 
 #### 💠 TH Games Hub — Gerenciador de Torneios
-*Sistema focado em organização de campeonatos de E-sports*
+*Sistema de organização para E-sports*
 
-- **O QUE FAZ:** Centraliza o controle de times e inscrições com relatórios automáticos.
 - **TECNOLOGIAS:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
 - **STATUS:** `ESTÁVEL`
 
@@ -64,13 +63,13 @@
 | MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
 | **SCRIPTS_PYTHON** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ESTÁVEL` |
+| **REDES_E_COMPUTADORES** | `[▓▓▓▓▓░░░░░] 50%` | `CARREGANDO` |
 | **DESENVOLVIMENTO_JAVA** | `[▓▓▓░░░░░░░] 30%` | `ATUALIZANDO` |
 
 <br>
 
-<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Status:+Analista+em+Construção" />
 </p>
 
 ---
