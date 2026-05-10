@@ -62,11 +62,6 @@
 | **REDES_E_COMPUTADORES** | `[▓▓▓▓▓░░░░░] 50%` | `CARREGANDO` |
 | **DESENVOLVIMENTO_JAVA** | `[▓▓▓░░░░░░░] 30%` | `ATUALIZANDO` |
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Status:+Analista+em+Construção" />
-</p>
 
 ---
 
