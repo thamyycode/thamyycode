@@ -5,9 +5,8 @@
 
 <!-- ⚡ SUBTÍTULO TERMINAL DINÂMICO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bf00ff&center=true&vCenter=true&width=500&lines=>>+ROOT+ACCESS+GRANTED...;++Bypassing+firewall...;++Configuring+network+protocols...;++Running+Python+scripts...;++Deploying+TH+Games+Hub...;++Troubleshooting+system+errors...;++Connection+Secure:+Status+Purple" />
 </p>
-
 <!-- 🌌 LINHA DE DIVISÃO NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
