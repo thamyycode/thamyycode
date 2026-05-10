@@ -57,7 +57,7 @@
 
 ---
 
-#### [MÉTRICAS_DE_APRENDIZADO]
+#### MÉTRICAS_DE_APRENDIZADO
 
 | MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
