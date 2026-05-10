@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="image_0.png" width="100%" />
-</p>
+<div align="center">
+  <br>
+  <code><b style="letter-spacing: 5px;">
+    <font color="#8833ff">THAMYRES</font><font color="#ff007f">_OLIVEIRA</font>
+  </b></code>
+  <br>
+  <font color="#8833ff"><b>> ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b></font>
+  <br>
+  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="400px">
+</div>
 
 <br>
 
@@ -51,7 +58,7 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 <div align="left">
   <a href="mailto:oliveirathamy50@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D03391?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/thamyycode" target="_blank"><img src="https://img.shields.io/badge/GitHub_thamyycode-8E24AA?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/thamyycode" target="_blank"><img src="https://img.shields.io/badge/GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -60,9 +67,8 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="50%" />
-</p>
-<p align="center">
+<div align="center">
+  <font color="#8833ff">________________________________________________</font>
+  <br>
   <font color="#B030B0">Made with 💜 by Thamyres Oliveira</font>
-</p>
+</div>
