@@ -5,7 +5,7 @@
 
 <!-- ⚡ SUBTÍTULO TERMINAL DINÂMICO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;FOCO+EM+ENGENHARIA+DE+SOFTWARE..." />
 </p>
 
 <!-- 🌌 LINHA DE DIVISÃO NEON -->
@@ -18,18 +18,19 @@
 ### 🌌 [INFORMAÇÕES_DO_SISTEMA]
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
-* **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
-* **HABILIDADES:** Python, Java, SQL e Suporte Técnico
-* **STATUS:** Entre tickets de suporte e automação de scripts.
+* **FOCO:** Desenvolvimento Back-end e Lógica de Programação
+* **HABILIDADES:** Python, Java e SQL
+* **STATUS:** Desenvolvendo soluções e otimizando processos.
 
 <br>
 
 ---
 
-### 🛠 [TECNOLOGIAS_DETECTADAS]
+### 🛠 [TECNOLOGIAS]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,linux,git,bash,windows,html,css,github,vscode&theme=dark" />
+  <!-- Apenas o que você realmente usa -->
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -63,14 +64,13 @@
 | MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
 | **SCRIPTS_PYTHON** | `[▓▓▓▓▓▓▓▓░░] 80%` | `ESTÁVEL` |
-| **REDES_E_COMPUTADORES** | `[▓▓▓▓▓░░░░░] 50%` | `CARREGANDO` |
 | **DESENVOLVIMENTO_JAVA** | `[▓▓▓░░░░░░░] 30%` | `ATUALIZANDO` |
 
 <br>
 
-<!-- ⚡ TERMINAL HACKER CORRIGIDO -->
+<!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+ROOT+ACCESS+GRANTED...;%3E%3E+Bypassing+firewall...;%3E%3E+Configuring+protocols...;%3E%3E+Running+Python+scripts...;%3E%3E+Troubleshooting+system..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
 </p>
 
 ---
