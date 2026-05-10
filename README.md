@@ -7,13 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=500&lines=%3E%3E+SISTEMA+OPERACIONAL...;%3E%3E+Executando+Python+Scripts...;%3E%3E+Acessando+TH+Games+Hub...;%3E%3E+Status:+Codando..." />
 </p>
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
 </div>
 
----
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybal9naWZfYnlfaWQmY3Q9Zw/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
