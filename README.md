@@ -1,14 +1,14 @@
-<!-- ⚡ CABEÇALHO NEON -->
+<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </p>
 
-<!-- ⚡ SUBTÍTULO TERMINAL -->
+<!-- ⚡ SUBTÍTULO TERMINAL DINÂMICO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
 </p>
 
-<!-- 🌌 DIVISOR NEON -->
+<!-- 🌌 LINHA DE DIVISÃO NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,50:6600cc,100:ff00ff&height=4"/>
 </p>
@@ -20,7 +20,7 @@
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
 * **HABILIDADES:** Python, Java, SQL e Suporte Técnico
-* **STATUS:** Entre tickets de suporte e troubleshooting de rede.
+* **STATUS:** Entre tickets de suporte e automação de scripts.
 
 <br>
 
@@ -29,7 +29,6 @@
 ### 🛠 [TECNOLOGIAS_DETECTADAS]
 
 <p align="left">
-  <!-- Ícones que carregam rápido e sem erro -->
   <img src="https://skillicons.dev/icons?i=py,java,mysql,linux,git,bash,windows,html,css,github,vscode&theme=dark" />
 </p>
 
@@ -38,8 +37,9 @@
 ### 🏆 [PROJETO_EM_DESTAQUE]
 
 #### 💠 TH Games Hub — Gerenciador de Torneios
-*Sistema de organização para E-sports*
+*Sistema focado em organização de campeonatos de E-sports*
 
+- **O QUE FAZ:** Centraliza o controle de times e inscrições com relatórios automáticos.
 - **TECNOLOGIAS:** `Python 3.13` / `Tabulate` / `Arquivos .txt`
 - **STATUS:** `ESTÁVEL`
 
