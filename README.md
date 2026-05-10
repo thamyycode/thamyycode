@@ -1,13 +1,10 @@
-<!-- CABEÇALHO PERSONALIZADO -->
+<!-- CABEÇALHO TECH & FLUIDO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=1,FF007F,8833FF&height=280&section=header&text=Welcome%20to%20my%20Space%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&subText=Software%20Engineering%20Student&subTextSize=20" width="100%" />
+</p>
+
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td style="background-image: linear-gradient(to right, #FF007F, #8833FF); padding: 40px; border-radius: 15px; text-align: center;">
-        <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0;">✨ Welcome to my Space ✨</h1>
-        <p style="color: #fce4ec; font-size: 1.2em;">Estudante de Engenharia de Software | Thamyres Oliveira</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="70%" />
 </div>
 
 <br>
@@ -67,13 +64,7 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 
 ---
 
-<!-- RODAPÉ PERSONALIZADO -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td style="background-image: linear-gradient(to right, #8833FF, #FF007F); padding: 20px; border-radius: 50px; text-align: center;">
-        <span style="color: white; font-weight: bold;">Made with 💜 by Thamyres Oliveira</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- RODAPÉ TECH -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=8E24AA&height=120&section=footer&text=Made%20with%20💜%20by%20Thamyres&fontSize=25&fontColor=ffffff" width="100%" />
+</p>
