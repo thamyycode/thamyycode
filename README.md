@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1280x250/2d004d/ffffff?text=." width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maykee/maykee/master/.github/images/pink-purple-line.gif" width="70%" />
-</p>
+<!-- CABEÇALHO PERSONALIZADO -->
 <div align="center">
-  <code><b style="letter-spacing: 5px;">
-    <font color="#8833ff">THAMYRES</font><font color="#ff007f">_OLIVEIRA</font>
-  </b></code>
-  <br>
-  <font color="#8833ff"><b>> ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</b></font>
+  <table width="100%">
+    <tr>
+      <td style="background-image: linear-gradient(to right, #FF007F, #8833FF); padding: 40px; border-radius: 15px; text-align: center;">
+        <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0;">✨ Welcome to my Space ✨</h1>
+        <p style="color: #fce4ec; font-size: 1.2em;">Estudante de Engenharia de Software | Thamyres Oliveira</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -60,8 +58,7 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 ## 🎀 <font color="#B030B0">Vamos nos conectar?</font>
 <div align="left">
   <a href="mailto:oliveirathamy50@gmail.com"><img src="https://img.shields.io/badge/Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D03391?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/thamyycode" target="_blank"><img src="https://img.shields.io/badge/GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thamyres-oliveira-112820357/"><img src="https://img.shields.io/badge/-LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
@@ -70,9 +67,13 @@ O projeto é organizado de forma modular para facilitar a manutenção:
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/1280x150/bc13fe/ffffff?text=." width="100%" />
-</p>
-<p align="center">
-  <font color="#B030B0">Made with 💜 by Thamyres Oliveira</font>
-</p>
+<!-- RODAPÉ PERSONALIZADO -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td style="background-image: linear-gradient(to right, #8833FF, #FF007F); padding: 20px; border-radius: 50px; text-align: center;">
+        <span style="color: white; font-weight: bold;">Made with 💜 by Thamyres Oliveira</span>
+      </td>
+    </tr>
+  </table>
+</div>
