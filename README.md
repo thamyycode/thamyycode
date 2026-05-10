@@ -1,8 +1,7 @@
 <!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
-<div <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=35&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Press+Start+2P"/>
 </p>
-</div>
 
 <!-- ⚡ TERMINAL DINÂMICO (LIMPO E SEM ERRO) -->
 <p align="center">
