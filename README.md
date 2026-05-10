@@ -16,7 +16,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybal9naWZfYnlfaWQmY3Q9Zw/LXi7X01K7TfM7q97XW/giphy.gif" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
-### 🌌 𝐼𝒩𝐹𝒪𝑅𝑀𝒜ÇÕ𝐸𝒮_𝒟𝒪_𝒮𝐼𝒮𝒯𝐸𝑀𝒜
+#### INFORMAÇÕES_DO_SISTEMA
 
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS) / Engenharia de Software
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
@@ -27,7 +27,7 @@
 
 
 
-### 🏆 𝒫𝑅𝒪𝒥𝐸𝒯𝒪_𝐸𝑀_𝒟𝐸𝒮𝒯𝒜𝒬𝒰𝐸
+#### PROJETO_EM_DESTAQUE
 
 #### 💠 TH Games Hub — Gerenciador de Torneios
 *Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
@@ -41,7 +41,7 @@
 
 
 
-### 🌐 [𝒞𝒪𝒩𝐸𝒞𝒯𝒜𝑅_𝒯𝐸𝑅𝑀𝐼𝒩𝒜𝐿]
+### CONECTAR_TERMINAL
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
@@ -54,7 +54,7 @@
 
 ---
 
-### 🛠 [𝒯𝐸𝒞𝒩𝒪𝐿𝒪𝒢𝐼𝒜𝒮]
+### TECNOLOGIAS
 
 
 <div align="left">
@@ -63,7 +63,7 @@
 
 ---
 
-### 📊 [MÉTRICAS_DE_APRENDIZADO]
+### [MÉTRICAS_DE_APRENDIZADO]
 
 | MÓDULO | NÍVEL_DE_CONHECIMENTO | STATUS |
 | :--- | :--- | :--- |
