@@ -26,7 +26,7 @@
 
 #### PROJETO_EM_DESTAQUE
 
-#### 💠 TH Games Hub — Gerenciador de Torneios
+#### TH Games Hub — Gerenciador de Torneios
 *Sistema focado em organização de campeonatos de E-sports (Valorant, LoL, etc)*
 
 - **O QUE FAZ:** Centraliza o controle de times, jogadores e inscrições, gerando relatórios automáticos de torneios competitivos.
