@@ -13,7 +13,7 @@
 </div>
 
 <!-- GIF DO GOOGLE SHARE ATUALIZADO -->
-<img align="right" src="https://lh3.googleusercontent.com/pw/AP1GczPrO9mAnv_96T_4pZ3X6Cst427m9x_lQ0_C8XG_M8-hU3v5uP98O-G9TjCgPzZJ-eO8nZf-R8V5u-D9l-z3U=w400-h400-no" height="170px" style="margin-left:20px; border-radius: 10px;"/>
+<img align="right" src="[https://br.pinterest.com/pin/797137202765695389/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5OyrtjRp1ly2yBS8fIcOh5JpWiE1gw7DzQ&s)" height="170px" style="margin-left:20px; border-radius: 10px;"/>
 
 #### INFORMAÇÕES_DO_SISTEMA
 
