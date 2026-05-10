@@ -1,7 +1,9 @@
+<!-- ⚡ CABEÇALHO NEON CYBERPUNK -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:2d004d,70:6600cc,100:ff00ff&height=180&section=header&text=Thamy%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00ff&strokeWidth=2&font=Orbitron"/>
 </div>
 
+<!-- ⚡ SUBTÍTULO TERMINAL -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bf00ff&center=true&vCenter=true&width=600&lines=INICIANDO+SESSÃO...;ANÁLISE+E+DESENV.+DE+SISTEMAS;DESENVOLVEDORA+BACK-END;SUPORTE+E+REDES..." />
 </div>
@@ -21,7 +23,7 @@
 * **CURSO:** Análise e Desenvolvimento de Sistemas (ADS)
 * **FOCO:** Back-end, Suporte Empresarial e Infraestrutura de Redes
 * **HABILIDADES:** Python, Java, SQL e Suporte Técnico
-* **STATUS:** Decifrando protocolos e compilando ideias.
+* **STATUS:** Entre tickets de suporte, automação de scripts e troubleshooting de rede.
 
 <br>
 
@@ -44,6 +46,9 @@
 ---
 
 ### 🌐 [CONECTAR_TERMINAL]
+
+* **LinkedIn:** [Acessar Perfil Profissional](https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/)
+* **E-mail:** `oliveirathamy50@gmail.com`
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-henrique-pinheiro-494741336/" target="_blank">
@@ -76,11 +81,12 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Scripts+Python+em+80%25...;>>+Sincronizando+protocolos+de+Rede;>>+Aprendendo+Módulos+Java;>>+Status+da+Aura:+Roxo+Neon" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=ff00ff&center=true&vCenter=true&width=500&lines=>>+Verificando+conectividade...;>>+Ticket+encerrado+com+sucesso;>>+Codando+em+Python+e+Java;>>+Status:+Analista+em+Construção" />
 </div>
 
 ---
 
+<!-- 🌌 RODAPÉ NEON -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
 </div>
