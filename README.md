@@ -26,7 +26,7 @@
 
 <br>
 
-<!-- 📊 ESTATÍSTICAS DE ATIVIDADE (NIGHTOWL THEME) -->
+<!-- 📊 ESTATÍSTICAS (IMPORTANTE: Mude 'SEU_USUARIO' para o seu login do GitHub) -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nightowl&hide_border=true&title_color=bf00ff&icon_color=ff00ff&text_color=ffffff" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=nightowl&hide_border=true&title_color=bf00ff&text_color=ffffff" />
@@ -47,6 +47,8 @@
 - **O QUE FAZ:** Centraliza o controle de times, jogadores e inscrições com relatórios automáticos.
 - **TECNOLOGIAS:** `Python 3.13` / `Biblioteca Tabulate` / `Manipulação de Arquivos .txt`
 - **STATUS:** `VERSÃO_FINAL_ESTÁVEL`
+
+> **Nota:** Desenvolvido durante meus estudos em Engenharia de Software. Feedbacks são bem-vindos!
 
 ---
 
@@ -82,13 +84,9 @@
 
 <br>
 
-<!-- 🐍 SNAKE GAME (CONTRIBUIÇÕES) -->
+<!-- 🐍 SNAKE GAME (IMPORTANTE: Mude 'SEU_USUARIO' para o seu login do GitHub) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </div>
 
 <br>
@@ -102,4 +100,4 @@
 <!-- 🌌 RODAPÉ NEON -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6600cc&height=100&section=footer&animation=waving"/>
-</div>
+</div>  
